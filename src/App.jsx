@@ -146,7 +146,7 @@ const App = () => {
               <img src='./ps5.png' alt='ps5' className='absolute top-2/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[20%] object-cover'/>
             </div>
           </div>
-          <div className='py-22 w-full h-screen flex items-center justify-center bg-black'>
+          <div className='py-22 w-full h-screen flex items-center justify-center bg-black overflow-y-hidden'>
             <div className="cntnr flex text-white w-full h-[80%]">
               <div className='limg relative w-1/2 h-full'>
                 <img className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[80%] object-cover' src="./imag.png" alt=''/>
